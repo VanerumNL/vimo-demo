@@ -21,4 +21,4 @@ Bovenin `index.html` staat het blok **Teksten**: de welkomsttekst, de ondertitel
 
 ## In AbleSign
 
-**Websites → Add website**, plak het adres van de Cloudflare-site (bijv. `https://vimo-demo.pages.dev`), geef hem een naam en sla op. Sleep hem daarna bij **Screens** in de playlist van het scherm en zet de duur zo lang mogelijk.
+**Websites → Add website**, plak het adres van de Cloudflare-site (bijv. `https://vimo-demo.paul-westerhout.workers.dev`), geef hem een naam en sla op. Sleep hem daarna bij **Screens** in de playlist van het scherm en zet de duur zo lang mogelijk.
